@@ -1,0 +1,5 @@
+
+
+---
+- host: All
+  ping:
